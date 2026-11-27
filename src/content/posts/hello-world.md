@@ -6,13 +6,10 @@ slug: why-im-starting-this-blog
 featured: true
 draft: false
 tags:
-  - esp32
-  - meta
-description: What I'm building with ESP32 and why I'm writing it all down.
+  
+description: Why this blog started
 ---
 
-I'm learning ESP32 and I keep forgetting what I figured out last week.
+im doing a lot of stuff and want to archive it and keep a log of those, this is the places where you can find a lot of stuff i do.
 
-So this blog is my lab notebook: what I built, what broke, and how I fixed it.
-
-More soon.
+more soon
