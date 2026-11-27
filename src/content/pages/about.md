@@ -1,37 +1,21 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "Who I am and what this blog is for."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hey, I'm Gajanan. I'm a CS/AI student at Scaler School of Technology (class of 2030), and I like building things more than reading about them.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+## What I do
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+- **Games:** I've been making games since I was 12, starting with Scratch and moving to Unity. I also mod Minecraft and put together modpacks.
+- **Self-hosting:** I run my own servers and home lab, and I'd rather host my own stuff than hand it to a company.
+- **Apps and web:** I build full-stack apps and websites, and I use AI tools heavily while doing it.
+- **Hardware:** ESP32 is the newest thing on the list, and it's what most of this blog is about right now.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## What this blog is
 
-## Features
+My lab notebook. I'm writing down what I build, what breaks, and how I fix it, mostly ESP32 experiments for now, with other projects mixed in. The posts are me learning in public, so expect mistakes and corrections.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Get in touch
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+The easiest way is to leave a comment on any post (you sign in with GitHub). You can also find me on [GitHub](https://github.com/lanofgajanan) or [LinkedIn](https://www.linkedin.com/in/gajanan-lohar-3a0b13414/).
