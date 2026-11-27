@@ -5,7 +5,8 @@ title: Why I'm starting this blog
 slug: why-im-starting-this-blog
 featured: true
 draft: false
-tags:
+tags: 
+    - meta
   
 description: Why this blog started
 ---
